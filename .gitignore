@@ -1,0 +1,8 @@
+#folder
+.ipynb_checkpoints/
+algoTrade-master/
+
+#file
+*.data
+*.png
+*.csv
